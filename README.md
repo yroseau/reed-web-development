@@ -1,6 +1,6 @@
 # Reed Web Development
 
-![Reed Web Development](images/logo-circle-medium.png)
+![Reed Web Development](images/logo-circle-small.png)
 
 Développement sur mesure d'applications web et mobiles pour entreprises, associations et indépendants.  
 Spécialiste **Flutter**, **Node.js** et **Strapi**, avec une approche axée sur la qualité et la performance.
